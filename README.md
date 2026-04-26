@@ -5,7 +5,7 @@ Este repositório contém a solução desenvolvida para o "Desafio Cientista de 
 
 ## Estrutura do Projeto
 
-O fluxo de dados foi consolidado na pasta `notebooks/`, dividida de forma lógica em três etapas principais:
+O fluxo de dados foi consolidado na pasta `notebooks/`, dividida em três etapas principais:
 
 * **`01_analise_apis_clima.ipynb`**: Correspondente a Parte 1: Análise Exploratória com APIs Externas
 * **`02_modelagem_resolucao.ipynb`**: Correspondente a Parte 2: Modelagem Preditiva - Resolução de Chamados
