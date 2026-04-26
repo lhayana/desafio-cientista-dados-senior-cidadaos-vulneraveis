@@ -22,7 +22,7 @@ O fluxo de dados foi consolidado na pasta `notebooks/`, dividida de forma lógic
 
 ## Como Rodar
 
-Caso queira replicar as análises ou treinar os modelos em sua máquina:
+Para replicar as análises ou treinar os modelos em sua máquina:
 
 1. **Configuração do Virtual Environment (Recomendado)**
    É aconselhado rodar a aplicação num ambiente virtual para isolar as dependências.
