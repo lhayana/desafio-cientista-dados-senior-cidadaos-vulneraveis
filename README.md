@@ -7,9 +7,9 @@ Este repositório contém a solução desenvolvida para o "Desafio Cientista de 
 
 O fluxo de dados foi consolidado na pasta `notebooks/`, dividida em três etapas principais:
 
-* **`01_analise_apis_clima.ipynb`**: Correspondente a Parte 1: Análise Exploratória com APIs Externas
-* **`02_modelagem_resolucao.ipynb`**: Correspondente a Parte 2: Modelagem Preditiva - Resolução de Chamados
-* **`03_sistema_priorizacao.ipynb`**: Correspondente a Parte 3: Sistema de Priorização
+* **`01_analise_apis_clima.ipynb`**: Correspondente a "Parte 1: Análise Exploratória com APIs Externas"
+* **`02_modelagem_resolucao.ipynb`**: Correspondente a "Parte 2: Modelagem Preditiva - Resolução de Chamados"
+* **`03_sistema_priorizacao.ipynb`**: Correspondente a "Parte 3: Sistema de Priorização"
 
 ## Tecnologias e Bibliotecas Utilizadas
 * **Linguagem**: Python
